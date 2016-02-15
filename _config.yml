@@ -1,0 +1,28 @@
+name: Hizam
+favicon: null
+layout_spectrum: 0.8148933406919241
+typography_spectrum: 0.3613550888840109
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.0548643188085407
+  lightness: 0.47250533988699317
+  saturation: 0.07471087574958801
+  rhythmicContrast: 0.2533343064133078
+purpose: []
